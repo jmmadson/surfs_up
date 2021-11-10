@@ -7,8 +7,8 @@ I am looking to move to Hawaii to open a Surf & Ice Cream Shop. To help fund thi
 ## Results
 After filtering and analyzing the data, I found the following differences between the June and December weather data: 
 
-* Average Temperature: The difference between the average temperatures in June vs. December was only three degrees
-* Maximum Temperature: The difference between the maximum temperature in June vs. December was only two degrees
+* Average Temperature: The difference between the average temperatures in June vs. December was only three degrees.
+* Maximum Temperature: The difference between the maximum temperature in June vs. December was only two degrees.
 * Minimum Temperature: The lowest temperature in December was significantly less (8 degrees) than in June as compared to the average and max temperature differences. 
 * Rainfall: There was overall less total inches of rain in December than June, but December had much heavier rains with a higher max rainfall. 
 * Reasonable Temperatures: Over 75% of the temperatures in both June and December were higher than 71 degrees. 
@@ -30,3 +30,7 @@ In addition to looking at temperature, I ran two additional queries to determine
 
 ![June Query](https://github.com/jmmadson/surfs_up/blob/main/Resources/June_Query.png?raw=true)
 ![December Query](https://github.com/jmmadson/surfs_up/blob/main/Resources/Dec_Query.png?raw=true)
+
+If W. Avy would like me to do additional analysis I would run queries to look for the following: 
+* The actual and average number of days within June and December that had rainfall to further determine days the shop could be open for business. 
+* The station that reported the most consistent highest temperature and lowest rainfall, to determine the best location for the shop. 
